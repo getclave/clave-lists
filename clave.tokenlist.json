@@ -1,0 +1,14 @@
+{
+  "name": "Clave Token List",
+  "chains": [324, 280],
+  "tokens": [
+    {
+      "chainId": 324,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-tokenlists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png"
+    }
+  ]
+}
