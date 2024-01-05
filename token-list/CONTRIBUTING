@@ -1,0 +1,9 @@
+# Adding a new token or updating an existing token
+
+Make sure that you are following this contributing guideline and PR template before submitting a PR.
+
+If you are adding a new token or updating an existing token, start by selecting the relevant options.
+
+Please make sure that you have replaced `TOKEN_NAME` and `TOKEN_SYMBOL` with the actual token name, symbol, chain id in the PR template with tokens block explorer link. Also, passed the appropriate json element in the [clave.tokenlist.json](./clave.tokenlist.json) file.
+
+Please make sure that you have included token logo with `{CHAINID}_{TOKENADDRESS}.png` name format and in square scaling (preferably 64x64) in the [logos](./logos) folder.
