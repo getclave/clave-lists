@@ -1,7 +1,7 @@
 {
-  "name": "@getclave/clave-tokenlist",
+  "name": "@getclave/clave-lists",
   "version": "1.0.0",
-  "description": "Token list for Clave app",
+  "description": "Token and Dapp list for Clave app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
