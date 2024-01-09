@@ -1,16 +1,28 @@
 {
-  "name": "Clave Dapp List",
+  "name": "Clave dApp List",
   "chains": [324, 280],
+  "chain_ids": ["324", "280"],
+  "tags": ["swap", "dex", "defi", "lending", "bridge", "cross-chain"],
   "dapps": {
-    "trade": [
+    "exchanges": [
       {
-        "name": "Syncswap",
+        "name": "SyncSwap",
         "url": "https://syncswap.xyz/intro",
         "description": "SyncSwap brings more people easy-to-use and low-cost DeFi with complete Ethereum security powered by zero-knowledge technology.",
-        "category": "trade",
-        "tags": ["trade", "launch", "defi", "bridge"],
+        "chain_ids": ["324", "280"],
+        "tags": ["swap", "dex", "defi"],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/syncswap.png"
       }
     ]
-  }
+  },
+  "bridges": [
+    {
+      "name": "txSync,",
+      "url": "https://portal.txsync.io/",
+      "description": "Native bridge and user friendly interface to view and interact with your assets on zkSync and zkSync Lite.",
+      "chain_ids": ["324", "280"],
+      "tags": ["cross-chain", "bridge"],
+      "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/txsync.png"
+    }
+  ]
 }
