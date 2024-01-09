@@ -1,14 +1,99 @@
 {
   "name": "Clave Token List",
-  "chains": [324, 280],
+  "chains": [
+    324,
+    280
+  ],
   "tokens": [
+    {
+      "chainId": 324,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "address": "0x000000000000000000000000000000000000800a",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "isNative": true
+    },
+    {
+      "chainId": 324,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "isNative": false
+    },
+    {
+      "chainId": 324,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "isNative": false
+    },
     {
       "chainId": 324,
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
       "address": "0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png"
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "isNative": false
+    },
+    {
+      "chainId": 324,
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "address": "0x4B9eb6c0b6ea15176BBF62841C6B2A8a398cb656",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "isNative": false
+    },
+    {
+      "chainId": 324,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "address": "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "isNative": false
+    },
+    {
+      "chainId": 324,
+      "name": "Rocket Pool ETH",
+      "symbol": "rETH",
+      "decimals": 18,
+      "address": "0x32Fd44bB869620C0EF993754c8a00Be67C464806",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "isNative": false
+    },
+    {
+      "chainId": 324,
+      "name": "Coinbase Wrapped Staked ETH",
+      "symbol": "cbETH",
+      "decimals": 18,
+      "address": "0x75Af292c1c9a37b3EA2E6041168B4E48875b9ED5",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "isNative": false
+    },
+    {
+      "chainId": 324,
+      "name": "Maverick Token",
+      "symbol": "MAV",
+      "decimals": 18,
+      "address": "0x787c09494Ec8Bcb24DcAf8659E7d5D69979eE508",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "isNative": false
+    },
+    {
+      "chainId": 324,
+      "name": "Mute.io",
+      "symbol": "MUTE",
+      "decimals": 18,
+      "address": "0x0e97C7a0F8B2C9885C8ac9fC6136e829CbC21d42",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "isNative": false
     }
   ]
 }
