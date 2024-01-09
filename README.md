@@ -13,8 +13,8 @@
             "name": "{NAME}",
             "symbol": "{SYMBOL}",
             "decimals": {DECIMALS},
-            "address": "{ADDRESS}",
-            "icon": "https://raw.githubusercontent.com/getclave/clave-tokenlists/master/logos/{CHAINID}_{TOKENADDRESS}.png"
+            "address": "{ADDRESS}", // lowerCase
+            "icon": "https://raw.githubusercontent.com/getclave/clave-tokenlists/master/logos/{TOKENADDRESS}.png" // lowerCase
         }
     ]
 ```

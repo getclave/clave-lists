@@ -1,8 +1,7 @@
 {
   "name": "Clave Token List",
   "chains": [
-    324,
-    280
+    324
   ],
   "tokens": [
     {
@@ -11,7 +10,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "address": "0x000000000000000000000000000000000000800a",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/0x000000000000000000000000000000000000800a.png",
       "isNative": true
     },
     {
@@ -19,8 +18,8 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "address": "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4.png",
       "isNative": false
     },
     {
@@ -28,8 +27,8 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "address": "0x493257fd37edb34451f62edf8d2a0c418852ba4c",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/0x493257fd37edb34451f62edf8d2a0c418852ba4c.png",
       "isNative": false
     },
     {
@@ -37,8 +36,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "address": "0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "address": "0xf00dad97284d0c6f06dc4db3c32454d4292c6813",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/0xf00dad97284d0c6f06dc4db3c32454d4292c6813.png",
       "isNative": false
     },
     {
@@ -46,8 +45,8 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "address": "0x4B9eb6c0b6ea15176BBF62841C6B2A8a398cb656",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "address": "0x4b9eb6c0b6ea15176bbf62841c6b2a8a398cb656",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/0x4b9eb6c0b6ea15176bbf62841c6b2a8a398cb656.png",
       "isNative": false
     },
     {
@@ -55,8 +54,8 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "address": "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "address": "0xbbeb516fb02a01611cbbe0453fe3c580d7281011",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/0xbbeb516fb02a01611cbbe0453fe3c580d7281011.png",
       "isNative": false
     },
     {
@@ -64,8 +63,8 @@
       "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "decimals": 18,
-      "address": "0x32Fd44bB869620C0EF993754c8a00Be67C464806",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "address": "0x32fd44bb869620c0ef993754c8a00be67c464806",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/0x32fd44bb869620c0ef993754c8a00be67c464806.png",
       "isNative": false
     },
     {
@@ -73,8 +72,8 @@
       "name": "Coinbase Wrapped Staked ETH",
       "symbol": "cbETH",
       "decimals": 18,
-      "address": "0x75Af292c1c9a37b3EA2E6041168B4E48875b9ED5",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "address": "0x75af292c1c9a37b3ea2e6041168b4e48875b9ed5",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/0x75af292c1c9a37b3ea2e6041168b4e48875b9ed5.png",
       "isNative": false
     },
     {
@@ -82,8 +81,8 @@
       "name": "Maverick Token",
       "symbol": "MAV",
       "decimals": 18,
-      "address": "0x787c09494Ec8Bcb24DcAf8659E7d5D69979eE508",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "address": "0x787c09494ec8bcb24dcaf8659e7d5d69979ee508",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/0x787c09494ec8bcb24dcaf8659e7d5d69979ee508.png",
       "isNative": false
     },
     {
@@ -91,8 +90,8 @@
       "name": "Mute.io",
       "symbol": "MUTE",
       "decimals": 18,
-      "address": "0x0e97C7a0F8B2C9885C8ac9fC6136e829CbC21d42",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/324_0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813.png",
+      "address": "0x0e97c7a0f8b2c9885c8ac9fc6136e829cbc21d42",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/logos/0x0e97c7a0f8b2c9885c8ac9fc6136e829cbc21d42.png",
       "isNative": false
     }
   ]
