@@ -1,6 +1,6 @@
 {
     "name": "Clave Testnet Token List",
-    "chains": [
+    "chain": [
         300
     ],
     "tokens": [
