@@ -15,7 +15,8 @@
             "decimals": {TOKEN_DECIMALS},
             "address": "{TOKEN_ADDRESS}",
             "icon": "https://raw.githubusercontent.com/getclave/clave-tokenlists/master/logos/{TOKEN_ADDRESS}.png",
-            "isRemovable": true
+            "type": "ERC20",
+            "isDefault": false
         }
     ]
 ```
