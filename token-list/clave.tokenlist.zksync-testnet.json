@@ -1,6 +1,8 @@
 {
   "name": "Clave Testnet Token List",
-  "chain": [300],
+  "chain": [
+    300
+  ],
   "tokens": [
     {
       "chainId": 300,
@@ -9,6 +11,7 @@
       "decimals": 18,
       "address": "0x000000000000000000000000000000000000800a",
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x000000000000000000000000000000000000800a.png",
+      "type": "native",
       "isDefault": true
     },
     {
@@ -18,6 +21,7 @@
       "decimals": 6,
       "address": "0x235171e45abff2a15d117e3179df4cc35ebfae2f",
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x235171e45abff2a15d117e3179df4cc35ebfae2f.png",
+      "type": "ERC20",
       "isDefault": true
     },
     {
@@ -27,6 +31,7 @@
       "decimals": 6,
       "address": "0x7ee13f187cfa05c6396a5b6105a70bfdc6445a34",
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x7ee13f187cfa05c6396a5b6105a70bfdc6445a34.png",
+      "type": "ERC20",
       "isDefault": true
     },
     {
@@ -36,6 +41,7 @@
       "decimals": 18,
       "address": "0x2d6db36b3117802e996f13073a08a685d3fef7ed",
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x2d6db36b3117802e996f13073a08a685d3fef7ed.png",
+      "type": "ERC20",
       "isDefault": false
     },
     {
@@ -45,6 +51,7 @@
       "decimals": 18,
       "address": "0x2731293a05cf74feeb1572e0a15b1fa09170d786",
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x2731293a05cf74feeb1572e0a15b1fa09170d786.png",
+      "type": "ERC20",
       "isDefault": false
     }
   ]
