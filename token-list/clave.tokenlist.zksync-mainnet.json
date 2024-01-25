@@ -4,7 +4,7 @@
   "tokens": [
     {
       "chainId": 324,
-      "name": "Ethereum",
+      "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
       "address": "0x000000000000000000000000000000000000800a",
