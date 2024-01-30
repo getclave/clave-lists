@@ -37,7 +37,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "address": "0xf00dad97284d0c6f06dc4db3c32454d4292c6813",
+      "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xf00dad97284d0c6f06dc4db3c32454d4292c6813.png",
       "type": "ERC20",
       "isDefault": false
