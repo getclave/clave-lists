@@ -101,6 +101,86 @@
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x0e97c7a0f8b2c9885c8ac9fc6136e829cbc21d42.png",
       "type": "ERC20",
       "isDefault": false
+    },
+    {
+      "chainId": 324,
+      "name": "Holdstation",
+      "symbol": "HOLD",
+      "decimals": 18,
+      "address": "0xed4040fD47629e7c8FBB7DA76bb50B3e7695F0f2",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xed4040fD47629e7c8FBB7DA76bb50B3e7695F0f2.png",
+      "type": "ERC20",
+      "isDefault": false
+    },
+    {
+      "chainId": 324,
+      "name": "Wagmi",
+      "symbol": "WAGMI",
+      "decimals": 18,
+      "address": "0x3613AD277DF1d5935D41400A181Aa9ec1DC2Dc9e",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x3613AD277DF1d5935D41400A181Aa9ec1DC2Dc9e.png",
+      "type": "ERC20",
+      "isDefault": false
+    },
+    {
+      "chainId": 324,
+      "name": "Zeek Coin",
+      "symbol": "MEOW",
+      "decimals": 18,
+      "address": "0x79db8c67d0c33203da4efb58f7d325e1e0d4d692",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x79db8c67d0c33203da4efb58f7d325e1e0d4d692.png",
+      "type": "ERC20",
+      "isDefault": false
+    },
+    {
+      "chainId": 324,
+      "name": "Velocore",
+      "symbol": "VC",
+      "decimals": 18,
+      "address": "0x99bbe51be7cce6c8b84883148fd3d12ace5787f2",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x99bbe51be7cce6c8b84883148fd3d12ace5787f2.png",
+      "type": "ERC20",
+      "isDefault": false
+    },
+    {
+      "chainId": 324,
+      "name": "SpaceFi",
+      "symbol": "SPACE",
+      "decimals": 18,
+      "address": "0x47260090ce5e83454d5f05a0abbb2c953835f777",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x47260090ce5e83454d5f05a0abbb2c953835f777.png",
+      "type": "ERC20",
+      "isDefault": false
+    },
+    {
+      "chainId": 324,
+      "name": "WOO",
+      "symbol": "WOO",
+      "decimals": 18,
+      "address": "0x9e22d758629761fc5708c171d06c2fabb60b5159",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x9e22d758629761fc5708c171d06c2fabb60b5159.png",
+      "type": "ERC20",
+      "isDefault": false
+    },
+    {
+      "chainId": 324,
+      "name": "zkSwap Finance",
+      "symbol": "ZF",
+      "decimals": 18,
+      "address": "0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a.png",
+      "type": "ERC20",
+      "isDefault": false
+    },
+    {
+      "chainId": 324,
+      "name": "Liquity USD",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "address": "0x503234f203fc7eb888eec8513210612a43cf6115",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x503234f203fc7eb888eec8513210612a43cf6115.png",
+      "type": "ERC20",
+      "isDefault": false
     }
   ]
 }
