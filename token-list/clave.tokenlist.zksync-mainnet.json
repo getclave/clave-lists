@@ -107,7 +107,7 @@
       "name": "Holdstation",
       "symbol": "HOLD",
       "decimals": 18,
-      "address": "0xed4040fD47629e7c8FBB7DA76bb50B3e7695F0f2",
+      "address": "0xed4040fd47629e7c8fbb7da76bb50b3e7695f0f2",
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xed4040fD47629e7c8FBB7DA76bb50B3e7695F0f2.png",
       "type": "ERC20",
       "isDefault": false
@@ -117,7 +117,7 @@
       "name": "Wagmi",
       "symbol": "WAGMI",
       "decimals": 18,
-      "address": "0x3613AD277DF1d5935D41400A181Aa9ec1DC2Dc9e",
+      "address": "0x3613ad277df1d5935d41400a181aa9ec1dc2dc9e",
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x3613AD277DF1d5935D41400A181Aa9ec1DC2Dc9e.png",
       "type": "ERC20",
       "isDefault": false
