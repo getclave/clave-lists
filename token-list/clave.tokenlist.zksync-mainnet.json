@@ -38,7 +38,7 @@
       "symbol": "BUIDL",
       "decimals": 18,
       "address": "0xccfad26c904c086b9ad78d624b8afa922416b73f",
-      "icon": "https://clave-assets.s3.eu-central-1.amazonaws.com/buidl.png",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xccfad26c904c086b9ad78d624b8afa922416b73f.png",
       "type": "ERC20",
       "isDefault": true
     },
