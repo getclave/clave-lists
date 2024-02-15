@@ -4,7 +4,7 @@
   "tokens": [
     {
       "chainId": 324,
-      "name": "Ether",
+      "name": "Ethereum",
       "symbol": "ETH",
       "decimals": 18,
       "address": "0x000000000000000000000000000000000000800a",
@@ -14,7 +14,7 @@
     },
     {
       "chainId": 324,
-      "name": "USD Coin",
+      "name": "USD Circle",
       "symbol": "USDC",
       "decimals": 6,
       "address": "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4",
@@ -24,7 +24,7 @@
     },
     {
       "chainId": 324,
-      "name": "Tether USD",
+      "name": "USD Tether",
       "symbol": "USDT",
       "decimals": 6,
       "address": "0x493257fd37edb34451f62edf8d2a0c418852ba4c",
@@ -64,7 +64,7 @@
     },
     {
       "chainId": 324,
-      "name": "Wrapped BTC",
+      "name": "Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
       "address": "0xbbeb516fb02a01611cbbe0453fe3c580d7281011",
@@ -84,7 +84,7 @@
     },
     {
       "chainId": 324,
-      "name": "Coinbase Wrapped Staked ETH",
+      "name": "Coinbase Staked ETH",
       "symbol": "cbETH",
       "decimals": 18,
       "address": "0x75af292c1c9a37b3ea2e6041168b4e48875b9ed5",
