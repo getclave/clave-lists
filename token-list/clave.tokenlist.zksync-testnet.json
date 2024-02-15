@@ -6,7 +6,7 @@
   "tokens": [
     {
       "chainId": 300,
-      "name": "Ether",
+      "name": "Ethereum",
       "symbol": "ETH",
       "decimals": 18,
       "address": "0x000000000000000000000000000000000000800a",
@@ -26,7 +26,7 @@
     },
     {
       "chainId": 300,
-      "name": "Tether USD",
+      "name": "USD Tether",
       "symbol": "USDT",
       "decimals": 6,
       "address": "0x7ee13f187cfa05c6396a5b6105a70bfdc6445a34",
@@ -37,7 +37,7 @@
     {
       "chainId": 300,
       "name": "Wrapped Ether",
-      "symbol": "WETH",
+      "symbol": "wETH",
       "decimals": 18,
       "address": "0x2d6db36b3117802e996f13073a08a685d3fef7ed",
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x2d6db36b3117802e996f13073a08a685d3fef7ed.png",
