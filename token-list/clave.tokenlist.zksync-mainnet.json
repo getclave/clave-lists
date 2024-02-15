@@ -14,7 +14,7 @@
     },
     {
       "chainId": 324,
-      "name": "USD Circle",
+      "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
       "address": "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4",
