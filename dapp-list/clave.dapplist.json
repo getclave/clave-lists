@@ -3,7 +3,18 @@
   "chains": [324, 280],
   "chain_ids": ["324", "280"],
   "tags": ["swap", "dex", "defi", "lending", "bridge", "cross-chain"],
-  "dapps": {},
+  "dapps": {
+    "exchanges": [
+      {
+        "name": "SyncSwap",
+        "url": "https://syncswap.xyz",
+        "description": "SyncSwap brings more people easy-to-use and low-cost DeFi with complete Ethereum security powered by zero-knowledge technology.",
+        "chain_ids": ["324", "280"],
+        "tags": ["swap", "dex", "defi"],
+        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/syncswap.png"
+      }
+    ]
+  },
   "bridges": [
     {
       "name": "txSync,",
