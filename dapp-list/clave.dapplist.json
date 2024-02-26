@@ -30,15 +30,25 @@
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/mute.png"
       }
     ],
-    "bridges": [
+    "deposit and Bridge": [
       {
-        "name": "txSync,",
-        "url": "https://portal.txsync.io/",
-        "description": "Native bridge and user friendly interface to view and interact with your assets on zkSync and zkSync Lite.",
+        "name": "LayerSwap",
+        "url": "https://www.layerswap.io/app",
+        "description": "Deposit from any exchange to Clave or bridge your assets from / to another chain.",
         "chain_ids": ["324", "280"],
-        "tags": ["cross-chain", "bridge"],
-        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/txsync.png"
+        "tags": ["cross-chain", "bridge", "deposit"],
+        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/layerswap.png"
       }
     ]
-  }
+  },
+  "bridges": [
+    {
+      "name": "txSync,",
+      "url": "https://portal.txsync.io/",
+      "description": "Native bridge and user friendly interface to view and interact with your assets on zkSync and zkSync Lite.",
+      "chain_ids": ["324", "280"],
+      "tags": ["cross-chain", "bridge"],
+      "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/txsync.png"
+    }
+  ]
 }
