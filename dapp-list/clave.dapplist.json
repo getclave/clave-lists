@@ -20,6 +20,14 @@
         "chain_ids": ["324", "280"],
         "tags": ["swap", "dex", "defi"],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/mav.jpeg"
+      },
+      {
+        "name": "Mute",
+        "url": "https://app.mute.io/swap",
+        "description": "Mute is a DeFi platform, serving as a liquidity hub for all projects on zkSync. Mute's dynamic dApp features both a concentrated and standard pool AMM DEX, complete with limit orders, a farming platform, and a bond platform.",
+        "chain_ids": ["324", "280"],
+        "tags": ["swap", "dex", "defi"],
+        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/mute.png"
       }
     ]
     "bridges": [
