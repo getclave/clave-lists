@@ -12,6 +12,14 @@
         "chain_ids": ["324", "280"],
         "tags": ["swap", "dex", "defi"],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/syncswap.png"
+      },
+           {
+        "name": "Maverick",
+        "url": "https://app.mav.xyz/?chain=324",
+        "description": "Maverick Protocol offers a new infrastructure for decentralized finance, built to facilitate the most liquid markets for traders, liquidity providers, DAO treasuries, and developers, powered by a revolutionary Automated Market Maker (AMM)",
+        "chain_ids": ["324", "280"],
+        "tags": ["swap", "dex", "defi"],
+        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/mav.jpeg"
       }
     ]
   },
