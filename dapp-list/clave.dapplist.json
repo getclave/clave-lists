@@ -41,7 +41,7 @@
     "deposit and Withdraw": [
       {
         "name": "LayerSwap",
-        "url": "https://www.layerswap.io/app",
+        "url": "https://layerswap.io/app/?from=COINBASE&to=ZKSYNCERA_MAINNET&hideRefuel=true",
         "description": "Deposit from any exchange to Clave or bridge your assets from / to another chain.",
         "chain_ids": ["324", "280"],
         "tags": ["cross-chain", "bridge", "deposit"],
