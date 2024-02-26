@@ -29,7 +29,7 @@
         "tags": ["swap", "dex", "defi"],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/mute.png"
       }
-    ]
+    ],
     "bridges": [
       {
         "name": "txSync,",
