@@ -36,14 +36,6 @@
         "chain_ids": ["324", "280"],
         "tags": ["swap", "dex", "defi"],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/velocore.png"
-      },
-      {
-        "name": "PancakeSwap",
-        "url": "https://pancakeswap.finance/swap?chain=zkSync",
-        "description": "PancakeSwap lets users trade without the need to go through a Centralized Exchange. Everything you do on PancakeSwap is routed directly through your own wallet—no need to trust someone else with your coins.",
-        "chain_ids": ["324", "280"],
-        "tags": ["swap", "dex", "defi"],
-        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/pancake.png"
       }
     ],
     "deposit and Withdraw": [
