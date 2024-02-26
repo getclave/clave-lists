@@ -22,15 +22,15 @@
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/mav.jpeg"
       }
     ]
+    "bridges": [
+      {
+        "name": "txSync,",
+        "url": "https://portal.txsync.io/",
+        "description": "Native bridge and user friendly interface to view and interact with your assets on zkSync and zkSync Lite.",
+        "chain_ids": ["324", "280"],
+        "tags": ["cross-chain", "bridge"],
+        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/txsync.png"
+      }
+    ]
   },
-  "bridges": [
-    {
-      "name": "txSync,",
-      "url": "https://portal.txsync.io/",
-      "description": "Native bridge and user friendly interface to view and interact with your assets on zkSync and zkSync Lite.",
-      "chain_ids": ["324", "280"],
-      "tags": ["cross-chain", "bridge"],
-      "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/txsync.png"
-    }
-  ]
 }
