@@ -34,16 +34,6 @@
     },
     {
       "chainId": 324,
-      "name": "BuidlBucks",
-      "symbol": "BUIDL",
-      "decimals": 18,
-      "address": "0x84706f5fcbec6d5b4adb01a277dcca2f6f5cad26",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xccfad26c904c086b9ad78d624b8afa922416b73f.png",
-      "type": "ERC20",
-      "isDefault": true
-    },
-    {
-      "chainId": 324,
       "name": "Wrapped Ether",
       "symbol": "wETH",
       "decimals": 18,
