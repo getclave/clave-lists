@@ -46,6 +46,16 @@
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/zyfi.png"
       }
     ],
+    "lend and Borrow": [
+      {
+        "name": "ZeroLend",
+        "url": "https://zerolend.xyz/",
+        "description": "The most efficient lending market for liquid restaking tokens (LRTs). Borrow Ethereum against $weETH, $pufETH, $ezETH and others.",
+        "chain_ids": ["324", "280"],
+        "tags": ["lend", "borrow", "defi"],
+        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/zerolend.png"
+      }
+    ],
     "deposit and Withdraw": [
       {
         "name": "LayerSwap",
