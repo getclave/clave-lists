@@ -49,7 +49,7 @@
     "lend and Borrow": [
       {
         "name": "ZeroLend",
-        "url": "https://zerolend.xyz/",
+        "url": "https://app.zerolend.xyz/dashboard/?marketName=proto_zksync_era_v3",
         "description": "The most efficient lending market for liquid restaking tokens (LRTs). Borrow Ethereum against $weETH, $pufETH, $ezETH and others.",
         "chain_ids": ["324", "280"],
         "tags": ["lend", "borrow", "defi"],
