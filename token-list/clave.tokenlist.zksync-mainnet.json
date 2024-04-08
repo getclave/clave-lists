@@ -14,6 +14,16 @@
     },
     {
       "chainId": 324,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "address": "0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4.png",
+      "type": "ERC20",
+      "isDefault": true
+    },
+    {
+      "chainId": 324,
       "name": "Bridged USDC",
       "symbol": "USDC.e",
       "decimals": 6,
@@ -31,16 +41,6 @@
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x493257fd37edb34451f62edf8d2a0c418852ba4c.png",
       "type": "ERC20",
       "isDefault": true
-    },
-    {
-      "chainId": 324,
-      "name": "USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "address": "0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4.png",
-      "type": "ERC20",
-      "isDefault": false
     },
     {
       "chainId": 324,
