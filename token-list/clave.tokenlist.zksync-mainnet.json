@@ -191,6 +191,16 @@
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x503234f203fc7eb888eec8513210612a43cf6115.png",
       "type": "ERC20",
       "isDefault": false
+    },
+    {
+      "chainId": 324,
+      "name": "VenoToken",
+      "symbol": "VNO",
+      "decimals": 18,
+      "address": "0xe75a17b4f5c4f844688d5670b684515d7c785e63",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xe75a17b4f5c4f844688d5670b684515d7c785e63.png",
+      "type": "ERC20",
+      "isDefault": false
     }
   ]
 }
