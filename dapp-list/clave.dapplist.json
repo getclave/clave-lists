@@ -36,6 +36,14 @@
         "chain_ids": ["324"],
         "tags": ["swap", "dex", "defi"],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/zyfi.png"
+      },
+      {
+        "name": "Holdstation DeFutures",
+        "url": "https://holdstation.exchange/",
+        "description": "The pioneering gasless on-chain futures trading platform, supporting multiple assets, and leverage up to 500x.",
+        "chain_ids": ["324", "300"],
+        "tags": ["perp dex", "defi"],
+        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/holdstation.png"
       }
     ],
     "lend and Borrow": [
