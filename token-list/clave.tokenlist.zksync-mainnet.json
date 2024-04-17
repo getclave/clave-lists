@@ -8,7 +8,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "address": "0x000000000000000000000000000000000000800a",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x000000000000000000000000000000000000800a.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0x000000000000000000000000000000000000800a.png",
       "type": "native",
       "isDefault": true
     },
@@ -18,7 +18,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "address": "0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4.png",
       "type": "ERC20",
       "isDefault": true
     },
@@ -28,7 +28,7 @@
       "symbol": "USDC.e",
       "decimals": 6,
       "address": "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4.png",
       "type": "ERC20",
       "isDefault": true
     },
@@ -38,7 +38,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "address": "0x493257fd37edb34451f62edf8d2a0c418852ba4c",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x493257fd37edb34451f62edf8d2a0c418852ba4c.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0x493257fd37edb34451f62edf8d2a0c418852ba4c.png",
       "type": "ERC20",
       "isDefault": true
     },
@@ -48,7 +48,7 @@
       "symbol": "wETH",
       "decimals": 18,
       "address": "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xf00dad97284d0c6f06dc4db3c32454d4292c6813.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0xf00dad97284d0c6f06dc4db3c32454d4292c6813.png",
       "type": "ERC20",
       "isDefault": false
     },
@@ -58,7 +58,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "address": "0x4b9eb6c0b6ea15176bbf62841c6b2a8a398cb656",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x4b9eb6c0b6ea15176bbf62841c6b2a8a398cb656.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0x4b9eb6c0b6ea15176bbf62841c6b2a8a398cb656.png",
       "type": "ERC20",
       "isDefault": false
     },
@@ -68,7 +68,7 @@
       "symbol": "wBTC",
       "decimals": 8,
       "address": "0xbbeb516fb02a01611cbbe0453fe3c580d7281011",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xbbeb516fb02a01611cbbe0453fe3c580d7281011.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0xbbeb516fb02a01611cbbe0453fe3c580d7281011.png",
       "type": "ERC20",
       "isDefault": false
     },
@@ -78,7 +78,7 @@
       "symbol": "rETH",
       "decimals": 18,
       "address": "0x32fd44bb869620c0ef993754c8a00be67c464806",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x32fd44bb869620c0ef993754c8a00be67c464806.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0x32fd44bb869620c0ef993754c8a00be67c464806.png",
       "type": "ERC20",
       "isDefault": false
     },
@@ -88,7 +88,7 @@
       "symbol": "cbETH",
       "decimals": 18,
       "address": "0x75af292c1c9a37b3ea2e6041168b4e48875b9ed5",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x75af292c1c9a37b3ea2e6041168b4e48875b9ed5.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0x75af292c1c9a37b3ea2e6041168b4e48875b9ed5.png",
       "type": "ERC20",
       "isDefault": false
     },
@@ -98,7 +98,7 @@
       "symbol": "MAV",
       "decimals": 18,
       "address": "0x787c09494ec8bcb24dcaf8659e7d5d69979ee508",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x787c09494ec8bcb24dcaf8659e7d5d69979ee508.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0x787c09494ec8bcb24dcaf8659e7d5d69979ee508.png",
       "type": "ERC20",
       "isDefault": false
     },
@@ -108,7 +108,7 @@
       "symbol": "MUTE",
       "decimals": 18,
       "address": "0x0e97c7a0f8b2c9885c8ac9fc6136e829cbc21d42",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x0e97c7a0f8b2c9885c8ac9fc6136e829cbc21d42.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0x0e97c7a0f8b2c9885c8ac9fc6136e829cbc21d42.png",
       "type": "ERC20",
       "isDefault": false
     },
@@ -118,7 +118,7 @@
       "symbol": "KOI",
       "decimals": 18,
       "address": "0xa995ad25ce5eb76972ab356168f5e1d9257e4d05",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xa995ad25ce5eb76972ab356168f5e1d9257e4d05.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0xa995ad25ce5eb76972ab356168f5e1d9257e4d05.png",
       "type": "ERC20",
       "isDefault": false
     },
@@ -128,7 +128,7 @@
       "symbol": "HOLD",
       "decimals": 18,
       "address": "0xed4040fd47629e7c8fbb7da76bb50b3e7695f0f2",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xed4040fD47629e7c8FBB7DA76bb50B3e7695F0f2.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0xed4040fD47629e7c8FBB7DA76bb50B3e7695F0f2.png",
       "type": "ERC20",
       "isDefault": false
     },
@@ -138,7 +138,7 @@
       "symbol": "MEOW",
       "decimals": 18,
       "address": "0x79db8c67d0c33203da4efb58f7d325e1e0d4d692",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x79db8c67d0c33203da4efb58f7d325e1e0d4d692.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0x79db8c67d0c33203da4efb58f7d325e1e0d4d692.png",
       "type": "ERC20",
       "isDefault": false
     },
@@ -148,7 +148,7 @@
       "symbol": "VC",
       "decimals": 18,
       "address": "0x99bbe51be7cce6c8b84883148fd3d12ace5787f2",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x99bbe51be7cce6c8b84883148fd3d12ace5787f2.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0x99bbe51be7cce6c8b84883148fd3d12ace5787f2.png",
       "type": "ERC20",
       "isDefault": false
     },
@@ -158,7 +158,7 @@
       "symbol": "SPACE",
       "decimals": 18,
       "address": "0x47260090ce5e83454d5f05a0abbb2c953835f777",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x47260090ce5e83454d5f05a0abbb2c953835f777.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0x47260090ce5e83454d5f05a0abbb2c953835f777.png",
       "type": "ERC20",
       "isDefault": false
     },
@@ -168,7 +168,7 @@
       "symbol": "WOO",
       "decimals": 18,
       "address": "0x9e22d758629761fc5708c171d06c2fabb60b5159",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x9e22d758629761fc5708c171d06c2fabb60b5159.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0x9e22d758629761fc5708c171d06c2fabb60b5159.png",
       "type": "ERC20",
       "isDefault": false
     },
@@ -178,7 +178,7 @@
       "symbol": "ZF",
       "decimals": 18,
       "address": "0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a.png",
       "type": "ERC20",
       "isDefault": false
     },
@@ -188,7 +188,7 @@
       "symbol": "LUSD",
       "decimals": 18,
       "address": "0x503234f203fc7eb888eec8513210612a43cf6115",
-      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x503234f203fc7eb888eec8513210612a43cf6115.png",
+      "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0x503234f203fc7eb888eec8513210612a43cf6115.png",
       "type": "ERC20",
       "isDefault": false
     }
