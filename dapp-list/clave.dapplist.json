@@ -30,6 +30,14 @@
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/koi.png"
       },
       {
+        "name": "Velocore",
+        "url": "https://zksync.velocore.xyz/swap",
+        "description": "Velocore offers users an environment where everyone can trade with low fees and slippage, while relieving protocols of the burden of inflating their respective token rewards, with the goal of growing the DeFi ecosystem together.",
+        "chain_ids": ["324", "280"],
+        "tags": ["swap", "dex", "defi"],
+        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/velocore.png"
+      },
+      {
         "name": "Zyfi",
         "url": "https://www.zyfi.org/swap",
         "description": "Zyfi is a DeFi portal to gasless transactions on zkSync, allowing users to pay with any ERC-20 token as gas or enjoy sponsored swaps. It is powered by Zyfi's paymaster API.",
