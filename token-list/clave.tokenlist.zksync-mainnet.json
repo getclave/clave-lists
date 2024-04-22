@@ -191,6 +191,16 @@
       "icon": "https://clave-public-assets.s3.eu-central-1.amazonaws.com/tokens/0x503234f203fc7eb888eec8513210612a43cf6115.png",
       "type": "ERC20",
       "isDefault": false
+    },
+    {
+      "chainId": 324,
+      "name": "Dappad",
+      "symbol": "APPA",
+      "decimals": 18,
+      "address": "0xe87269fa38180a13e9bb3c487537f5282ef3e5d7",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xe87269fa38180a13e9bb3c487537f5282ef3e5d7.png",
+      "type": "ERC20",
+      "isDefault": false
     }
   ]
 }
