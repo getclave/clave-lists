@@ -4,7 +4,7 @@
   "chain_ids": ["324", "280"],
   "tags": ["swap", "dex", "defi", "lending", "bridge", "cross-chain"],
   "dapps": {
-    "exchanges": [
+    "bookmarks": [
       {
         "name": "SyncSwap",
         "url": "https://syncswap.xyz",
@@ -44,9 +44,7 @@
         "chain_ids": ["324"],
         "tags": ["swap", "dex", "defi"],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/zyfi.png"
-      }
-    ],
-    "lend and Borrow": [
+      },
       {
         "name": "ZeroLend",
         "url": "https://app.zerolend.xyz/dashboard/?marketName=proto_zksync_era_v3",
@@ -54,27 +52,15 @@
         "chain_ids": ["324", "280"],
         "tags": ["lend", "borrow", "defi"],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/zerolend.png"
-      }
-    ],
-    "deposit and Withdraw": [
+      },
       {
-        "name": "LayerSwap",
-        "url": "https://layerswap.io/app/?from=COINBASE&to=ZKSYNCERA_MAINNET&hideRefuel=true",
-        "description": "Deposit from any exchange to Clave or bridge your assets from / to another chain.",
+        "name": "txSync,",
+        "url": "https://portal.txsync.io/",
+        "description": "Native bridge and user friendly interface to view and interact with your assets on zkSync and zkSync Lite.",
         "chain_ids": ["324", "280"],
-        "tags": ["cross-chain", "bridge", "deposit"],
-        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/layerswap.png"
+        "tags": ["cross-chain", "bridge"],
+        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/txsync.png"
       }
     ]
-  },
-  "bridges": [
-    {
-      "name": "txSync,",
-      "url": "https://portal.txsync.io/",
-      "description": "Native bridge and user friendly interface to view and interact with your assets on zkSync and zkSync Lite.",
-      "chain_ids": ["324", "280"],
-      "tags": ["cross-chain", "bridge"],
-      "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/txsync.png"
-    }
-  ]
+  }
 }
