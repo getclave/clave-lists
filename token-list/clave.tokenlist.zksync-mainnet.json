@@ -211,6 +211,16 @@
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x16a9494e257703797d747540f01683952547ee5b.png",
       "type": "ERC20",
       "isDefault": false
+    },
+    {
+      "chainId": 324,
+      "name": "Symbiosis",
+      "symbol": "SIS",
+      "decimals": 18,
+      "address": "0xdd9f72afed3631a6c85b5369d84875e6c42f1827",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xdd9f72afed3631a6c85b5369d84875e6c42f1827.png",
+      "type": "ERC20",
+      "isDefault": false
     }
   ]
 }
