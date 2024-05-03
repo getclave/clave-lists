@@ -231,6 +231,26 @@
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x703b52f2b28febcb60e1372858af5b18849fe867.png",
       "type": "ERC20",
       "isDefault": false
+    },
+    {
+      "chainId": 324,
+      "name": "Wrapped LIBERTAS OMNIBUS",
+      "symbol": "LIBERTAS",
+      "decimals": 18,
+      "address": "0xc6dac3a53d5d6de9d1d05aa6e28b8e9e41722601",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xc6dac3a53d5d6de9d1d05aa6e28b8e9e41722601.png",
+      "type": "ERC20",
+      "isDefault": false
+    },
+    {
+      "chainId": 324,
+      "name": "Wrapped LIBERTAS OMNIBUS",
+      "symbol": "LIBERTAS",
+      "decimals": 18,
+      "address": "0xbbd1ba24d589c319c86519646817f2f153c9b716",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xbbd1ba24d589c319c86519646817f2f153c9b716.png",
+      "type": "ERC20",
+      "isDefault": false
     }
   ]
 }
