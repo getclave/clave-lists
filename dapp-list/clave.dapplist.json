@@ -55,16 +55,6 @@
         "tags": ["lend", "borrow", "defi"],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/zerolend.png"
       }
-    ],
-    "deposit and Withdraw": [
-      {
-        "name": "LayerSwap",
-        "url": "https://layerswap.io/app/?from=COINBASE&to=ZKSYNCERA_MAINNET&hideRefuel=true",
-        "description": "Deposit from any exchange to Clave or bridge your assets from / to another chain.",
-        "chain_ids": ["324", "280"],
-        "tags": ["cross-chain", "bridge", "deposit"],
-        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/layerswap.png"
-      }
     ]
   },
   "bridges": [
