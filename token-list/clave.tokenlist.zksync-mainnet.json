@@ -244,8 +244,8 @@
     },
     {
       "chainId": 324,
-      "name": "Wrapped LIBERTAS OMNIBUS",
-      "symbol": "LIBERTAS",
+      "name": "DeversiFi Token",
+      "symbol": "DVF",
       "decimals": 18,
       "address": "0xbbd1ba24d589c319c86519646817f2f153c9b716",
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xbbd1ba24d589c319c86519646817f2f153c9b716.png",
