@@ -221,6 +221,16 @@
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xdd9f72afed3631a6c85b5369d84875e6c42f1827.png",
       "type": "ERC20",
       "isDefault": false
+    },
+    {
+      "chainId": 324,
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "address": "0x703b52f2b28febcb60e1372858af5b18849fe867",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x703b52f2b28febcb60e1372858af5b18849fe867.png",
+      "type": "ERC20",
+      "isDefault": false
     }
   ]
 }
