@@ -201,6 +201,16 @@
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xe87269fa38180a13e9bb3c487537f5282ef3e5d7.png",
       "type": "ERC20",
       "isDefault": false
+    },
+    {
+      "chainId": 324,
+      "name": "izumi Token",
+      "symbol": "iZi",
+      "decimals": 18,
+      "address": "0x16a9494e257703797d747540f01683952547ee5b",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x16a9494e257703797d747540f01683952547ee5b.png",
+      "type": "ERC20",
+      "isDefault": false
     }
   ]
 }
