@@ -1,48 +1,107 @@
 {
   "name": "Clave dApp List",
-  "chains": [324, 280],
-  "chain_ids": ["324", "280"],
-  "tags": ["swap", "dex", "defi", "lending", "bridge", "cross-chain"],
+  "chains": [
+    324,
+    280
+  ],
+  "chain_ids": [
+    "324",
+    "280"
+  ],
+  "tags": [
+    "swap",
+    "dex",
+    "defi",
+    "lending",
+    "bridge",
+    "cross-chain"
+  ],
   "dapps": {
+    "DappCon": [
+      {
+        "name": "Smoothie Store",
+        "url": "https://smoothie.getclave.io/",
+        "description": "Smoothie store for Clave users at DappCon.",
+        "chain_ids": [
+          "324"
+        ],
+        "tags": [],
+        "image": "https://pbs.twimg.com/profile_images/1720483382067335168/ds2v5Vhu_400x400.jpg"
+      }
+    ],
     "exchanges": [
       {
         "name": "SyncSwap",
         "url": "https://syncswap.xyz",
         "description": "SyncSwap brings more people easy-to-use and low-cost DeFi with complete Ethereum security powered by zero-knowledge technology.",
-        "chain_ids": ["324", "280"],
-        "tags": ["swap", "dex", "defi"],
+        "chain_ids": [
+          "324",
+          "280"
+        ],
+        "tags": [
+          "swap",
+          "dex",
+          "defi"
+        ],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/syncswap.png"
       },
       {
         "name": "Maverick",
         "url": "https://app.mav.xyz/?chain=324",
         "description": "Maverick Protocol offers a new infrastructure for decentralized finance, built to facilitate the most liquid markets for traders, liquidity providers, DAO treasuries, and developers, powered by a revolutionary Automated Market Maker (AMM)",
-        "chain_ids": ["324", "280"],
-        "tags": ["swap", "dex", "defi"],
+        "chain_ids": [
+          "324",
+          "280"
+        ],
+        "tags": [
+          "swap",
+          "dex",
+          "defi"
+        ],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/mav.jpeg"
       },
       {
         "name": "Koi",
         "url": "https://app.koi.finance/swap",
         "description": "KOI is a DeFi platform, serving as a liquidity hub for all projects on zkSync. KOI's dynamic dApp features both a concentrated and standard pool AMM DEX, complete with limit orders, a farming platform, and a bond platform.",
-        "chain_ids": ["324", "280"],
-        "tags": ["swap", "dex", "defi"],
+        "chain_ids": [
+          "324",
+          "280"
+        ],
+        "tags": [
+          "swap",
+          "dex",
+          "defi"
+        ],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/koi.png"
       },
       {
         "name": "Velocore",
         "url": "https://zksync.velocore.xyz/swap",
         "description": "Velocore offers users an environment where everyone can trade with low fees and slippage, while relieving protocols of the burden of inflating their respective token rewards, with the goal of growing the DeFi ecosystem together.",
-        "chain_ids": ["324", "280"],
-        "tags": ["swap", "dex", "defi"],
+        "chain_ids": [
+          "324",
+          "280"
+        ],
+        "tags": [
+          "swap",
+          "dex",
+          "defi"
+        ],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/velocore.png"
       },
       {
         "name": "Zyfi",
         "url": "https://www.zyfi.org/swap",
         "description": "Zyfi is a DeFi portal to gasless transactions on zkSync, allowing users to pay with any ERC-20 token as gas or enjoy sponsored swaps. It is powered by Zyfi's paymaster API.",
-        "chain_ids": ["324"],
-        "tags": ["swap", "dex", "defi"],
+        "chain_ids": [
+          "324"
+        ],
+        "tags": [
+          "swap",
+          "dex",
+          "defi"
+        ],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/zyfi.png"
       }
     ],
@@ -51,8 +110,15 @@
         "name": "ZeroLend",
         "url": "https://app.zerolend.xyz/dashboard/?marketName=proto_zksync_era_v3",
         "description": "The most efficient lending market for liquid restaking tokens (LRTs). Borrow Ethereum against $weETH, $pufETH, $ezETH and others.",
-        "chain_ids": ["324", "280"],
-        "tags": ["lend", "borrow", "defi"],
+        "chain_ids": [
+          "324",
+          "280"
+        ],
+        "tags": [
+          "lend",
+          "borrow",
+          "defi"
+        ],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/zerolend.png"
       }
     ]
@@ -62,8 +128,14 @@
       "name": "txSync,",
       "url": "https://portal.txsync.io/",
       "description": "Native bridge and user friendly interface to view and interact with your assets on zkSync and zkSync Lite.",
-      "chain_ids": ["324", "280"],
-      "tags": ["cross-chain", "bridge"],
+      "chain_ids": [
+        "324",
+        "280"
+      ],
+      "tags": [
+        "cross-chain",
+        "bridge"
+      ],
       "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/txsync.png"
     }
   ]
