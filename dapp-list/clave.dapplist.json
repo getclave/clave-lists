@@ -7,7 +7,7 @@
     "DappCon": [
       {
         "name": "Smoothie Store",
-        "url": "https://smoothie.getclave.io/",
+        "url": "https://smoothie.getclave.io",
         "description": "Smoothie store for Clave users at DappCon.",
         "chain_ids": ["324"],
         "tags": [],
