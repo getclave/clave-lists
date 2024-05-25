@@ -64,6 +64,14 @@
         "chain_ids": ["324", "280"],
         "tags": ["lend", "borrow", "defi"],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/zerolend.png"
+      },
+      {
+        "name": "Kelp",
+        "url": "https://www.kelpdao.xyz/restake/",
+        "description": "rsETH is a Liquid Restaked Token (LRT) issued by Kelp DAO designed to offer liquidity to illiquid assets deposited into restaking platforms, such as EigenLayer.",
+        "chain_ids": ["324"],
+        "tags": ["restaking"],
+        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/kelp.png"
       }
     ]
   },
