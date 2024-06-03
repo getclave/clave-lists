@@ -261,6 +261,16 @@
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xd4169e045bcf9a86cc00101225d9ed61d2f51af2.png",
       "type": "ERC20",
       "isDefault": false
+    },
+    {
+      "chainId": 324,
+      "name": "FUL",
+      "symbol": "FUL",
+      "decimals": 18,
+      "address": "0xe593853b4d603d5b8f21036bb4ad0d1880097a6e",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0xe593853b4d603d5b8f21036bb4ad0d1880097a6e.png",
+      "type": "ERC20",
+      "isDefault": false
     }
   ]
 }
