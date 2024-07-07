@@ -82,7 +82,7 @@
     ],
     "bridges": [
       {
-        "name": "txSync,",
+        "name": "txSync",
         "url": "https://portal.txsync.io/",
         "description": "Native bridge and user friendly interface to view and interact with your assets on zkSync and zkSync Lite.",
         "chain_ids": ["324", "280"],
