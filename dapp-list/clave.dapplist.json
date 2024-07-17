@@ -2,7 +2,7 @@
   "name": "Clave dApp List",
   "chains": [324, 280],
   "chain_ids": ["324", "280"],
-  "tags": ["swap", "dex", "defi", "lending", "bridge", "cross-chain", "nfts"],
+  "tags": ["swap", "dex", "defi", "lending", "bridge", "cross-chain", "nfts", "tools"],
   "dapps": {
     "dex": [
       {
@@ -98,6 +98,16 @@
         "chain_ids": ["324", "280"],
         "tags": ["nfts"],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/zkmarkets.png"
+      }
+    ],
+    "tools": [
+      {
+        "name": "RevokeCash",
+        "url": "https://revoke.cash/?chainId=324",
+        "description": "Take back control by revoking your approvals.",
+        "chain_ids": ["324", "280"],
+        "tags": ["tools"],
+        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/revoke.png"
       }
     ]
   }
