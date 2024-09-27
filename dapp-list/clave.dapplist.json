@@ -2,7 +2,16 @@
   "name": "Clave dApp List",
   "chains": [324, 280],
   "chain_ids": ["324", "280"],
-  "tags": ["swap", "dex", "defi", "lending", "bridge", "cross-chain", "nfts", "tools"],
+  "tags": [
+    "swap",
+    "dex",
+    "defi",
+    "lending",
+    "bridge",
+    "cross-chain",
+    "nfts",
+    "tools"
+  ],
   "dapps": {
     "dex": [
       {
@@ -70,6 +79,22 @@
         "chain_ids": ["324", "280"],
         "tags": ["lend", "borrow", "defi"],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/zerolend.png"
+      },
+      {
+        "name": "Aave",
+        "url": "https://app.aave.com/",
+        "description": "Aave is the world’s largest liquidity protocol. Supply, borrow, swap, stake and more.",
+        "chain_ids": ["324", "280"],
+        "tags": ["lend", "borrow", "defi"],
+        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/venus.png"
+      },
+      {
+        "name": "Venus",
+        "url": "https://app.venus.io/#/core-pool?chainId=324",
+        "description": "Simple and powerful community-driven finance for the entire globe.",
+        "chain_ids": ["324", "280"],
+        "tags": ["lend", "borrow", "defi"],
+        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/venus.png"
       },
       {
         "name": "Kelp",
