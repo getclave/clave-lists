@@ -86,7 +86,7 @@
         "description": "Aave is the world’s largest liquidity protocol. Supply, borrow, swap, stake and more.",
         "chain_ids": ["324", "280"],
         "tags": ["lend", "borrow", "defi"],
-        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/venus.png"
+        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/aave.png"
       },
       {
         "name": "Venus",
