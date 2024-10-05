@@ -271,6 +271,16 @@
       "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x5a7d6b2f92c77fad6ccabd7ee0624e64907eaf3e.png",
       "type": "ERC20",
       "isDefault": true
+    },
+    {
+      "chainId": 324,
+      "name": "Threshold BTC",
+      "symbol": "tBTC",
+      "decimals": 18,
+      "address": "0x4e942A211C630d28F2DB6D625e72d2CF30C36e06",
+      "icon": "https://raw.githubusercontent.com/getclave/clave-lists/master/token-list/logos/0x4e942A211C630d28F2DB6D625e72d2CF30C36e06.png",
+      "type": "ERC20",
+      "isDefault": true
     }
   ]
 }
