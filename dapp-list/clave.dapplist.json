@@ -113,6 +113,14 @@
         "chain_ids": ["324", "280"],
         "tags": ["cross-chain", "bridge"],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/txsync.png"
+      },
+      {
+        "name": "Across",
+        "url": "https://app.across.to/bridge?",
+        "description": "Across is a cross-chain bridge that allows users to bridge assets between ZKsync and other chains.",
+        "chain_ids": ["324", "280"],
+        "tags": ["cross-chain", "bridge"],
+        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/across.png"
       }
     ],
     "nfts": [
