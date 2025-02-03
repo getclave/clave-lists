@@ -69,6 +69,14 @@
         "chain_ids": ["324"],
         "tags": ["swap", "dex", "defi"],
         "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/1inch.png"
+      },
+      {
+        "name": "zkSwap",
+        "url": "https://www.zkswap.finance/swap?chain=zkSync",
+        "description": "The First Swap2Earn Platform",
+        "chain_ids": ["324"],
+        "tags": ["swap", "dex", "defi"],
+        "image": "https://raw.githubusercontent.com/getclave/clave-lists/master/dapp-list/logos/zkswap.png"
       }
     ],
     "lending": [
